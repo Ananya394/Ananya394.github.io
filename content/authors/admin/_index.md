@@ -2,11 +2,12 @@
 # Display name
 title: FARIA Sultana Ananya
 # Name pronunciation (optional)
-name_pronunciation: Student
+# name_pronunciation: Student
 # Full name (for SEO)
 first_name: Faria Sultana 
 last_name: Ananya
 # Status emoji
+avatar: https://static.vecteezy.com/system/resources/previews/036/176/029/non_2x/ai-generated-portrait-of-toothy-smiling-girl-standing-holding-her-glasses-and-looking-at-camera-with-happy-face-free-photo.jpg
 status:
   icon: ☕️
 
@@ -17,7 +18,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: computer Science and engineering
+role: Student (computer Science and engineering)
 
 
 # Organizations/Affiliations to display in Biography blox
@@ -140,11 +141,10 @@ skills:
 
 languages:
   - name: English
+    percent: 60
+  - name: Bangla
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  
 
 # Awards.
 #   Add/remove as many awards below as you like.
