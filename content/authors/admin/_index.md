@@ -23,7 +23,7 @@ role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Jahangirnagar University.
     url: https://openai.com/
 
 # Social network links
