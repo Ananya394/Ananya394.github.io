@@ -35,7 +35,7 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/an.anya3929/
+    url: https://www.instagram.com/
   - icon: brands/github
     url: https://github.com/Ananya394
   - icon: brands/linkedin
