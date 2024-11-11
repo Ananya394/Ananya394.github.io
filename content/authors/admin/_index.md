@@ -17,7 +17,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: (computer Science and engineering)
+role: computer Science and engineering
 
 
 # Organizations/Affiliations to display in Biography blox
@@ -49,7 +49,7 @@ interests:
   - Web Development
 
 education:
-  - area: Honor's (continue..)
+  - area: BSc in Computer Science and Engineering(continue..)
     institution: Janangirnagar University
     date_start: 2022-01-01
     date_end: 2026-12-31
