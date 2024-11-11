@@ -3,7 +3,7 @@
 title: WEBLAB
 
 # Name pronunciation (optional)
-name_pronunciation: FARIA
+name_pronunciation: FARIA Sultana Ananya
 # Full name (for SEO)
 first_name: Faria Sultana 
 last_name: Ananya
@@ -19,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
