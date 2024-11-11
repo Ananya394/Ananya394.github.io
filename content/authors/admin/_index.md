@@ -1,13 +1,11 @@
 ---
 # Display name
-#title: WEBLAB
-
+title: FARIA Sultana Ananya
 # Name pronunciation (optional)
-name_pronunciation: FARIA Sultana Ananya
+#name_pronunciation: FARIA Sultana Ananya
 # Full name (for SEO)
 first_name: Faria Sultana 
 last_name: Ananya
-
 # Status emoji
 status:
   icon: ☕️
@@ -180,4 +178,4 @@ awards:
 
 ## About Me
 
-Hello I am Faria Sultana Ananya. Currently completing my honor's in computer science and engineering at Jahangirnagar University. I have interest in cyber security.
+I am Faria Sultana Ananya, a dedicated and ambitious Computer Science and Engineering student at Jahangirnagar University. With a strong academic foundation and a keen interest in cybersecurity, I am passionate about exploring solutions to modern security challenges. I aim to deepen my technical expertise and contribute to innovative projects that enhance digital security and protect against emerging threats. I am eager to bring my analytical skills, curiosity, and commitment to excellence to a professional setting where I can continue to learn and grow.
