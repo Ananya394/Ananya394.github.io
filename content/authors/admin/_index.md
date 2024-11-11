@@ -24,7 +24,7 @@ role: Student
 # Organizations/Affiliations to display in Biography blox
 organizations:
   - name: Jahangirnagar University.
-    url: https://openai.com/
+    url: https://juniv.edu/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -35,9 +35,9 @@ profiles:
   - icon: brands/x
     url: https://twitter.com/GetResearchDev
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/an.anya3929/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/Ananya394
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
