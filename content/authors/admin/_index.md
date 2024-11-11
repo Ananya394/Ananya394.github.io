@@ -2,7 +2,7 @@
 # Display name
 title: FARIA Sultana Ananya
 # Name pronunciation (optional)
-#name_pronunciation: FARIA Sultana Ananya
+name_pronunciation: Student
 # Full name (for SEO)
 first_name: Faria Sultana 
 last_name: Ananya
@@ -17,7 +17,8 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Student
+role: (computer Science and engineering)
+
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -45,6 +46,7 @@ interests:
   - Artificial Intelligence
   - Machine Learning
   - Cyber Sequrity 
+  - Web Development
 
 education:
   - area: Honor's (continue..)
