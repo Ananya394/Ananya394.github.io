@@ -8,6 +8,5 @@ tags:
   - Markdown
 ---
 
-Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
-
+ I created an incomplete clone of Priyo.com, a popular Bangladeshi news and media platform.This project involved replicating the site’s layout and essential features, focusing on delivering a similar user experience
 <!--more-->
