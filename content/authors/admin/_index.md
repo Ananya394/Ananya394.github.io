@@ -62,7 +62,7 @@ education:
     institution: Gahtail Cantonment PUblic School and College
     date_start: 2018-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: |  
       GPA: 3.8/4.0
 
       Courses included:
