@@ -7,7 +7,6 @@ title: FARIA Sultana Ananya
 first_name: Faria Sultana 
 last_name: Ananya 
 # Status emoji
-avatar: https://static.vecteezy.com/system/resources/previews/036/176/029/non_2x/ai-generated-portrait-of-toothy-smiling-girl-standing-holding-her-glasses-and-looking-at-camera-with-happy-face-free-photo.jpg
 status:
   icon: ☕️
 
