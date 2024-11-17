@@ -1,90 +1,101 @@
 ---
 title: "Curriculum Vitae"
 type: "cv"
-date: 2024-11-15
-summary: "A dedicated Front-End Developer with a flair for designing intuitive and visually appealing web applications."
+date: 2024-11-17
+summary: "An enthusiastic Front-End Developer driven to create functional and visually appealing web applications."
 draft: false
 ---
 
-![Tasnova Effat Nova](./IMG_20200504_203259_610.jpg)
-
-# **Tasnova Effat Nova**
-
-### Front-End Developer | Student at Jahangirnagar University  
-_"Crafting seamless user experiences through creative coding."_
+# 🌟 **Faria Sultana Ananya**  
+### Computer Science Student  
+_"Transforming ideas into seamless digital experiences."_  
 
 ---
 
-## **Contact Information**  
-📧 **Email:** [novatasnovaeffat@email.com](mailto:novatasnovaeffat@email.com)  
-📱 **Phone:** 01973369404  
-🔗 **LinkedIn:** [Tasnova Effat Nova](https://www.linkedin.com/in/tasnova-effat-nova-677752241/)  
-🐱 **GitHub:** [nova-tasnova](https://github.com/nova-tasnova)  
-🩸 **Blood Group:** O+
+## 📬 **Contact Information**
+
+- **Email:** parvinsultana@gmail.com
+- **Phone:** +880 933 746 674
+- **GitHub:** [nova-tasnova](https://github.com/nova-tasnova)  
+- **Blood Group:** B+  
 
 ---
 
-## **Professional Summary**
+## 🎓 **Education**  
 
-A motivated Front-End Developer with strong academic credentials and a passion for web technologies. Specializes in creating responsive, user-friendly websites and applications using modern tools and frameworks. Combines creativity with technical skills to deliver outstanding digital experiences. Currently pursuing a B.Sc. in Computer Science at Jahangirnagar University.
+### **Bachelor of Science in Computer Science**  
+**Jahangirnagar University** (Ongoing)  
+- Focus: Front-End Development, UI/UX Design  
 
----
+### **Higher Secondary Certificate (HSC)**  
+**Govt. Hazi Md. Mohsin College**  
+- GPA: 4.92 (2019)  
 
-## **Education**
-
-| **Degree**                  | **Institution**                       | **Result** | **Year**  |
-|-----------------------------|---------------------------------------|------------|-----------|
-| **B.Sc. in Computer Science** | Jahangirnagar University             | Ongoing    | 2026      |
-| **HSC**                     | Govt. Hazi Md. Mohsin College        | 4.92       | 2019      |
-| **SSC**                     | Dr. Khastagir Govt. High School      | 5.00       | 2017      |
-
----
-
-## **Key Skills**
-
-- **Web Technologies:** HTML, CSS, JavaScript, React  
-- **Frameworks & Libraries:** Bootstrap, Tailwind CSS  
-- **Development Tools:** Git, Visual Studio Code, Webpack  
-- **Responsive Design:** Flexbox, CSS Grid  
-- **Languages:** Bengali (native), English (proficient), Hindi (conversational)
+### **Secondary School Certificate (SSC)**  
+**Dr. Khastagir Govt. High School**  
+- GPA: 5.00 (2017)  
 
 ---
 
-## **Projects**
+## 💡 **Professional Summary**  
+I am a dedicated Front-End Developer with a strong focus on creating engaging user interfaces and optimizing performance. Leveraging my academic knowledge, I aim to deliver accessible and visually compelling web solutions.
 
-### **Interactive Portfolio Website**  
-A personal portfolio website showcasing projects, skills, and education. Built with **React** and hosted on **GitHub Pages** for seamless access.  
-[🔗 View Project](https://github.com/nova-tasnova/My-Portfolio)
-
-### **Biometric Student Attendance System**  
-Designed and developed a biometric attendance system using fingerprint recognition for accurate tracking. Integrated with a database for real-time data management and automated notifications.
-
-### **Tic-Tac-Toe Game**  
-Created a browser-based **Tic-Tac-Toe** game using JavaScript, focusing on algorithmic design and a clean user interface.
+- Adept at responsive design and web optimization.  
+- Currently exploring modern JavaScript frameworks like React.  
+- Committed to building accessible and intuitive web applications.
 
 ---
 
-## **Certifications**
+## 🛠️ **Skills**
 
-- **Front-End Development Certification** - FreeCodeCamp  
-
----
-
-## **Achievements**
-
-🏆 **Top GPA Holder**: Secured the highest GPA in SSC and HSC examinations.  
+- **Web Development:** HTML, CSS, JavaScript  
+- **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS  
+- **Tools & Platforms:** Git, Visual Studio Code, Figma, Webpack  
+- **Design Expertise:** Wireframing, Prototyping, Responsive Design  
+- **Languages:** Bengali (native), English (proficient), Hindi (conversational)  
 
 ---
 
-## **Interests**
+## 🔧 **Projects**  
 
-🎯 Exploring cutting-edge web technologies  
-📝 Blogging about UI/UX design trends  
-🤝 Volunteering for community tech literacy programs  
+### **1. Personal Portfolio**  
+- A responsive personal portfolio showcasing skills, projects, and contact information.  
+- **Tech Used:** React, CSS Grid, GitHub Pages  
+- [🔗 View Project](https://github.com/nova-tasnova/My-Portfolio)
+
+### **2. Biometric Attendance System**  
+- Developed an intuitive system for tracking student attendance using fingerprint recognition.  
+- Real-time database integration for storage and automated notifications.  
+
+### **3. Interactive Tic-Tac-Toe Game**  
+- Built a fully functional browser-based game using JavaScript.  
+- Focused on clean UI design and interactive gameplay mechanics.  
 
 ---
 
-## **References**
+## 🏆 **Certifications**
+
+- **Front-End Development Certificate** - FreeCodeCamp  
+- **Responsive Web Design** - FreeCodeCamp  
+
+---
+
+## 🌟 **Achievements**
+
+- **Top Academic Performer:** Achieved the highest GPA in SSC and HSC.  
+- **Hackathon Participant:** Contributed to a web design hackathon at university.  
+
+---
+
+## 🌱 **Interests**
+
+- Exploring modern web frameworks like Vue.js and Svelte  
+- Writing blogs on accessibility and inclusive design  
+- Volunteering for tech education initiatives  
+
+---
+
+## 🧑‍🏫 **References**
 
 - **Md. Rafsan Jani**  
   Assistant Professor, Dept. of Computer Science  
@@ -92,6 +103,7 @@ Created a browser-based **Tic-Tac-Toe** game using JavaScript, focusing on algor
 
 - **Ashik Uddin**  
   Senior Software Engineer, ABC Ltd.  
+  Email: ashik.uddin@abcltd.com  
 
 ---
 
