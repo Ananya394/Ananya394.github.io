@@ -1,8 +1,8 @@
 ---
-title: "Curriculam vitae"
+title: "Curriculum Vitae"
 type: "cv"
 date: 2024-11-15
-summary: "A creative and dedicated Front-End Developer passionate about building intuitive web applications."
+summary: "A dedicated Front-End Developer with a flair for designing intuitive and visually appealing web applications."
 draft: false
 ---
 
@@ -11,84 +11,87 @@ draft: false
 # **Tasnova Effat Nova**
 
 ### Front-End Developer | Student at Jahangirnagar University  
-"Designing experiences, not just websites."  
+_"Crafting seamless user experiences through creative coding."_
 
 ---
 
-## **Personal Details**
-- **Email:** novatasnovaeffat@email.com  
-- **Phone:** 01973369404
-- **LinkedIn:** [TasnovaEffatNova](https://www.linkedin.com/in/tasnova-effat-nova-677752241/)
-- **GitHub:** [nova-tasnova](https://github.com/nova-tasnova)  
-- **Blood Group:** O+
+## **Contact Information**  
+📧 **Email:** [novatasnovaeffat@email.com](mailto:novatasnovaeffat@email.com)  
+📱 **Phone:** 01973369404  
+🔗 **LinkedIn:** [Tasnova Effat Nova](https://www.linkedin.com/in/tasnova-effat-nova-677752241/)  
+🐱 **GitHub:** [nova-tasnova](https://github.com/nova-tasnova)  
+🩸 **Blood Group:** O+
 
 ---
 
-## **Profile**
+## **Professional Summary**
 
-I am a motivated Front-End Developer with strong academic achievements and a passion for creating responsive and visually appealing web applications. My approach blends creativity with technology, aiming to deliver exceptional user experiences. Currently pursuing a Computer Science degree at Jahangirnagar University.
+A motivated Front-End Developer with strong academic credentials and a passion for web technologies. Specializes in creating responsive, user-friendly websites and applications using modern tools and frameworks. Combines creativity with technical skills to deliver outstanding digital experiences. Currently pursuing a B.Sc. in Computer Science at Jahangirnagar University.
 
 ---
 
 ## **Education**
 
-| **Degree**                  | **Institute**                          | **Result** | **Year**  |
-|-----------------------------|----------------------------------------|------------|-----------|
-| B.Sc. in Computer Science   | Jahangirnagar University              | Ongoing    | 2026      |
-| HSC                        | Govt. Hazi Md. Mohsin College         | 4.92       | 2019      |
-| SSC                        | Dr. Khastagir Govt. High School       | 5.00       | 2017      |
+| **Degree**                  | **Institution**                       | **Result** | **Year**  |
+|-----------------------------|---------------------------------------|------------|-----------|
+| **B.Sc. in Computer Science** | Jahangirnagar University             | Ongoing    | 2026      |
+| **HSC**                     | Govt. Hazi Md. Mohsin College        | 4.92       | 2019      |
+| **SSC**                     | Dr. Khastagir Govt. High School      | 5.00       | 2017      |
 
 ---
 
 ## **Key Skills**
-- **Web Development:** HTML, CSS, JavaScript, React  
-- **Frameworks:** Bootstrap, Tailwind CSS  
-- **Tools:** Git, Visual Studio Code, Webpack  
+
+- **Web Technologies:** HTML, CSS, JavaScript, React  
+- **Frameworks & Libraries:** Bootstrap, Tailwind CSS  
+- **Development Tools:** Git, Visual Studio Code, Webpack  
 - **Responsive Design:** Flexbox, CSS Grid  
-- **Languages:** Bengali, English, Hindi 
+- **Languages:** Bengali (native), English (proficient), Hindi (conversational)
 
 ---
 
-## **Technical Projects**
+## **Projects**
 
-- **Interactive Portfolio Website**  
-  A personal project showcasing my skills, education, and work, developed with React and hosted on GitHub Pages.  
+### **Interactive Portfolio Website**  
+A personal portfolio website showcasing projects, skills, and education. Built with **React** and hosted on **GitHub Pages** for seamless access.  
+[🔗 View Project](https://github.com/nova-tasnova/My-Portfolio)
 
-- **Biometric Students Attendance System**  
-  Developed a biometric student attendance system with a user-friendly interface, leveraging fingerprint technology for accurate attendance tracking. Integrated with  database for real-time record management and automated notifications for absencees. 
+### **Biometric Student Attendance System**  
+Designed and developed a biometric attendance system using fingerprint recognition for accurate tracking. Integrated with a database for real-time data management and automated notifications.
 
-- **JavaScript Game Development**  
-  Created a browser-based Tic-Tac-Toe game, focusing on algorithmic design and UI/UX.
+### **Tic-Tac-Toe Game**  
+Created a browser-based **Tic-Tac-Toe** game using JavaScript, focusing on algorithmic design and a clean user interface.
 
 ---
 
 ## **Certifications**
 
-- **Front-End Developer Certificate** - FreeCodeCamp  
-
+- **Front-End Development Certification** - FreeCodeCamp  
 
 ---
 
 ## **Achievements**
 
-- **Academic Excellence:** Top GPA in SSC and HSC examinations.  
-
+🏆 **Top GPA Holder**: Secured the highest GPA in SSC and HSC examinations.  
 
 ---
 
 ## **Interests**
-- Exploring new web technologies.  
-- Blogging about user-friendly design.  
-- Volunteering in community tech literacy programs.  
+
+🎯 Exploring cutting-edge web technologies  
+📝 Blogging about UI/UX design trends  
+🤝 Volunteering for community tech literacy programs  
 
 ---
 
 ## **References**
 
-- **Assistant Professor   Md. Rafsan Jani**  
-  Dept. of Computer Science, Jahangirnagar University  
-   
+- **Md. Rafsan Jani**  
+  Assistant Professor, Dept. of Computer Science  
+  Jahangirnagar University  
 
-- **Mr. Ashik Uddin**  
+- **Ashik Uddin**  
   Senior Software Engineer, ABC Ltd.  
-  
+
+---
+
