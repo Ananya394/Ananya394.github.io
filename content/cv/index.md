@@ -6,7 +6,7 @@ summary: "A Front-End Developer with a strong academic foundation and a passion 
 draft: false
 ---
 
- **Curriculum Vitae**
+ ![Faria Sultana Ananya](./IMG_20200504_203259_610.jpg)
 
 ### **Faria Sultana Ananya**  
 **Computer Science Student, Jahangirnagar University**  
