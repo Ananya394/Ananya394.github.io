@@ -7,7 +7,8 @@ draft: false
 ---
 
  ![Faria Sultana Ananya](./IMG_20200504_203259_610.jpg)
-
+ 
+<div class="cv-content">
 ### **Faria Sultana Ananya**  
 **Computer Science Student, Jahangirnagar University**  
 _"Innovating through technology, crafting seamless user experiences."_  
@@ -27,7 +28,7 @@ _"Innovating through technology, crafting seamless user experiences."_
 An enthusiastic and detail-oriented Front-End Developer with a strong academic background. Dedicated to building functional, accessible, and aesthetically pleasing web applications. Currently honing my expertise in responsive design and modern web technologies.
 
 ---
-
+</div>
 #### **Education**  
 
 - **B.Sc. in Computer Science** (Ongoing)  
