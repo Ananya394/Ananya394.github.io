@@ -2,108 +2,97 @@
 title: "Curriculum Vitae"
 type: "cv"
 date: 2024-11-17
-summary: "An enthusiastic Front-End Developer driven to create functional and visually appealing web applications."
+summary: "A Front-End Developer with a strong academic foundation and a passion for crafting intuitive web solutions."
 draft: false
 ---
 
-# 🌟 **Faria Sultana Ananya**  
-### Computer Science Student  
-_"Transforming ideas into seamless digital experiences."_  
+# **Curriculum Vitae**
+
+## **Tasnova Effat Nova**  
+**Computer Science Student, Jahangirnagar University**  
+_"Innovating through technology, crafting seamless user experiences."_  
 
 ---
 
-## 📬 **Contact Information**
+### **Contact Information**  
 
-- **Email:** parvinsultana@gmail.com
-- **Phone:** +880 933 746 674
-- **GitHub:** [nova-tasnova](https://github.com/nova-tasnova)  
-- **Blood Group:** B+  
-
----
-
-## 🎓 **Education**  
-
-### **Bachelor of Science in Computer Science**  
-**Jahangirnagar University** (Ongoing)  
-- Focus: Front-End Development, UI/UX Design  
-
-### **Higher Secondary Certificate (HSC)**  
-**Govt. Hazi Md. Mohsin College**  
-- GPA: 4.92 (2019)  
-
-### **Secondary School Certificate (SSC)**  
-**Dr. Khastagir Govt. High School**  
-- GPA: 5.00 (2017)  
+- **Email:** parvinsultanaac@gmail.com
+- **Phone:** +880 1973 369 404  
+- **GitHub:**  https://github.com/Ananya394
 
 ---
 
-## 💡 **Professional Summary**  
-I am a dedicated Front-End Developer with a strong focus on creating engaging user interfaces and optimizing performance. Leveraging my academic knowledge, I aim to deliver accessible and visually compelling web solutions.
+### **Profile**  
 
-- Adept at responsive design and web optimization.  
-- Currently exploring modern JavaScript frameworks like React.  
-- Committed to building accessible and intuitive web applications.
+An enthusiastic and detail-oriented Front-End Developer with a strong academic background. Dedicated to building functional, accessible, and aesthetically pleasing web applications. Currently honing my expertise in responsive design and modern web technologies.
 
 ---
 
-## 🛠️ **Skills**
+### **Education**  
 
-- **Web Development:** HTML, CSS, JavaScript  
-- **Frameworks & Libraries:** React, Bootstrap, Tailwind CSS  
-- **Tools & Platforms:** Git, Visual Studio Code, Figma, Webpack  
-- **Design Expertise:** Wireframing, Prototyping, Responsive Design  
+- **B.Sc. in Computer Science** (Ongoing)  
+  Jahangirnagar University  
+
+- **Higher Secondary Certificate (HSC)**  
+  Govt. Hazi Md. Mohsin College, GPA: 4.92 (2019)  
+
+- **Secondary School Certificate (SSC)**  
+  Dr. Khastagir Govt. High School, GPA: 5.00 (2017)  
+
+---
+
+### **Skills**  
+
+- **Web Technologies:** HTML, CSS, JavaScript, React  
+- **Frameworks:** Bootstrap, Tailwind CSS  
+- **Tools:** Git, Visual Studio Code, Figma, Webpack  
 - **Languages:** Bengali (native), English (proficient), Hindi (conversational)  
 
 ---
 
-## 🔧 **Projects**  
+### **Projects**  
 
-### **1. Personal Portfolio**  
-- A responsive personal portfolio showcasing skills, projects, and contact information.  
-- **Tech Used:** React, CSS Grid, GitHub Pages  
-- [🔗 View Project](https://github.com/nova-tasnova/My-Portfolio)
+**1. Personal Portfolio Website**  
+- A responsive website showcasing my professional skills and projects.  
+- **Technologies Used:** React, GitHub Pages  
 
-### **2. Biometric Attendance System**  
-- Developed an intuitive system for tracking student attendance using fingerprint recognition.  
-- Real-time database integration for storage and automated notifications.  
+**2. Biometric Attendance System**  
+- Developed a student attendance system using biometric technology with a user-friendly interface and real-time data integration.  
 
-### **3. Interactive Tic-Tac-Toe Game**  
-- Built a fully functional browser-based game using JavaScript.  
-- Focused on clean UI design and interactive gameplay mechanics.  
+**3. Tic-Tac-Toe Game**  
+- Designed a browser-based game using JavaScript, focusing on algorithm logic and UX.  
 
 ---
 
-## 🏆 **Certifications**
+### **Certifications**  
 
-- **Front-End Development Certificate** - FreeCodeCamp  
-- **Responsive Web Design** - FreeCodeCamp  
-
----
-
-## 🌟 **Achievements**
-
-- **Top Academic Performer:** Achieved the highest GPA in SSC and HSC.  
-- **Hackathon Participant:** Contributed to a web design hackathon at university.  
+- Front-End Development Certificate, FreeCodeCamp  
+- Responsive Web Design Certificate, FreeCodeCamp  
 
 ---
 
-## 🌱 **Interests**
+### **Achievements**  
 
-- Exploring modern web frameworks like Vue.js and Svelte  
-- Writing blogs on accessibility and inclusive design  
-- Volunteering for tech education initiatives  
+- **Academic Excellence:** Achieved top GPA in SSC and HSC examinations.  
+- **Hackathon Participation:** Contributed to a university-level web design hackathon.  
 
 ---
 
-## 🧑‍🏫 **References**
+### **Interests**  
+
+- Exploring modern web frameworks (e.g., Vue.js, Svelte)  
+- Writing blogs on web accessibility and inclusive design  
+- Volunteering in community tech education programs  
+
+---
+
+### **References**  
 
 - **Md. Rafsan Jani**  
-  Assistant Professor, Dept. of Computer Science  
-  Jahangirnagar University  
+  Assistant Professor, Department of Computer Science, Jahangirnagar University  
 
 - **Ashik Uddin**  
   Senior Software Engineer, ABC Ltd.  
   Email: ashik.uddin@abcltd.com  
 
 ---
-
