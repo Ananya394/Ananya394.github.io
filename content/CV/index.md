@@ -6,7 +6,7 @@ summary: "A creative and dedicated Front-End Developer passionate about building
 draft: false
 ---
 
-![Tasnova Effat Nova](new passport.jpg)
+![Tasnova Effat Nova](./IMG_20200504_203259_610.jpg)
 
 # **Tasnova Effat Nova**
 
