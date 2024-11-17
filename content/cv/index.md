@@ -1,6 +1,6 @@
 ---
 title: "Curriculam vitae"
-type: "resume"
+type: "cv"
 date: 2024-11-15
 summary: "A creative and dedicated Front-End Developer passionate about building intuitive web applications."
 draft: false
