@@ -109,32 +109,33 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
+      - name: C++/C
+      #  description: ''
         percent: 80
         icon: code-bracket
       - name: Data Science
-        description: ''
+     #   description: ''
         percent: 100
-        icon: chart-bar
+        icon: Java
       - name: SQL
-        description: ''
+      #  description: ''
         percent: 40
         icon: circle-stack
+     
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
       - name: Hiking
-        description: ''
-        percent: 60
+       # description: ''
+        percent: 10
         icon: person-simple-walk
-      - name: Cats
-        description: ''
+      - name: Reading
+        # description: ''
         percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
+        icon: book
+      - name: Music
+       # description: ''
         percent: 80
         icon: camera
 
