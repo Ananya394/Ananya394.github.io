@@ -6,15 +6,15 @@ summary: "A Front-End Developer with a strong academic foundation and a passion 
 draft: false
 ---
 
-# **Curriculum Vitae**
+ **Curriculum Vitae**
 
-## **Tasnova Effat Nova**  
+### **Faria Sultana Ananya**  
 **Computer Science Student, Jahangirnagar University**  
 _"Innovating through technology, crafting seamless user experiences."_  
 
 ---
 
-### **Contact Information**  
+#### **Contact Information**  
 
 - **Email:** parvinsultanaac@gmail.com
 - **Phone:** +880 1973 369 404  
@@ -22,13 +22,13 @@ _"Innovating through technology, crafting seamless user experiences."_
 
 ---
 
-### **Profile**  
+#### **Profile**  
 
 An enthusiastic and detail-oriented Front-End Developer with a strong academic background. Dedicated to building functional, accessible, and aesthetically pleasing web applications. Currently honing my expertise in responsive design and modern web technologies.
 
 ---
 
-### **Education**  
+#### **Education**  
 
 - **B.Sc. in Computer Science** (Ongoing)  
   Jahangirnagar University  
@@ -41,7 +41,7 @@ An enthusiastic and detail-oriented Front-End Developer with a strong academic b
 
 ---
 
-### **Skills**  
+#### **Skills**  
 
 - **Web Technologies:** HTML, CSS, JavaScript, React  
 - **Frameworks:** Bootstrap, Tailwind CSS  
@@ -50,7 +50,7 @@ An enthusiastic and detail-oriented Front-End Developer with a strong academic b
 
 ---
 
-### **Projects**  
+#### **Projects**  
 
 **1. Personal Portfolio Website**  
 - A responsive website showcasing my professional skills and projects.  
@@ -64,7 +64,7 @@ An enthusiastic and detail-oriented Front-End Developer with a strong academic b
 
 ---
 
-### **Certifications**  
+#### **Certifications**  
 
 - Front-End Development Certificate, FreeCodeCamp  
 - Responsive Web Design Certificate, FreeCodeCamp  
