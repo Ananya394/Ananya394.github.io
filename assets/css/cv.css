@@ -1,1 +1,30 @@
+/* General styles for the CV page */
+.cv-content {
+    font-size: 14px; /* Adjust the size as needed */
+    text-align: left; /* Align text to the left */
+    line-height: 1.6; /* Improves readability */
+    margin: 20px; /* Adds some spacing around the content */
+}
+
+/* Optional: Adjust headings */
+.cv-content h1,
+.cv-content h2,
+.cv-content h3 {
+    font-size: 18px; /* Smaller heading size */
+    text-align: left;
+    margin-bottom: 10px; /* Space below headings */
+}
+
+/* Optional: Adjust tables (if used) */
+.cv-content table {
+    width: 100%;
+    text-align: left;
+    border-collapse: collapse;
+}
+
+.cv-content table td, 
+.cv-content table th {
+    font-size: 14px;
+    padding: 8px;
+}
 
