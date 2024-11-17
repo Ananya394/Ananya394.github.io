@@ -9,7 +9,7 @@ draft: false
  ![Faria Sultana Ananya](./IMG_20200504_203259_610.jpg)
  
 
-### Faria Sultana Ananya 
+### **Faria Sultana Ananya** 
 **Computer Science Student, Jahangirnagar University**  
 _"Innovating through technology, crafting seamless user experiences."_  
 
@@ -25,7 +25,8 @@ _"Innovating through technology, crafting seamless user experiences."_
 
 #### **Profile**  
 
-An enthusiastic and detail-oriented Front-End Developer with a strong academic background. Dedicated to building functional, accessible, and aesthetically pleasing web applications. Currently honing my expertise in responsive design and modern web technologies.
+A proactive and detail-oriented Computer Science student with a growing expertise in front-end development and cybersecurity. I am committed to mastering modern web technologies and solving complex problems while delivering user-centered solutions.
+
 
 ---
 
@@ -35,10 +36,12 @@ An enthusiastic and detail-oriented Front-End Developer with a strong academic b
   Jahangirnagar University  
 
 - **Higher Secondary Certificate (HSC)**  
-  Govt. Hazi Md. Mohsin College, GPA: 4.92 (2019)  
+  Ghatail Cantonment PUblic School and College(2020)
+  gpa 5.00
 
 - **Secondary School Certificate (SSC)**  
-  Dr. Khastagir Govt. High School, GPA: 5.00 (2017)  
+  Ghatail Gono Pailot High School(2018)
+  gpa 5.00
 
 ---
 
