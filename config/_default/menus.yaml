@@ -7,7 +7,7 @@ main:
   - name: About
     url: /
     weight: 10
-  - name: CV
+  - name: Resume
     url: /#papers
     weight: 11
   - name: Experience
