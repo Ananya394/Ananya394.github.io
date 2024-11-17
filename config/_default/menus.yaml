@@ -17,7 +17,7 @@ main:
     url: projects/
     weight: 30
   - name: Resume
-    url: CV/
+    url: cv/
     weight: 11
   - name: Teaching
     url: teaching/
