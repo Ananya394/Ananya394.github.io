@@ -32,14 +32,11 @@ sections:
           parallax: false
   - block: markdown
     content:
-      title: '📚 My Research'
+      title: '📚 My Goal'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
-
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+As a passionate and dedicated Computer Science student, my primary objective is to excel in my field by mastering core concepts and honing practical skills. I aim to explore and innovate in cybersecurity, leveraging my knowledge to create solutions that ensure data safety and privacy in an increasingly digital world. My immediate focus is on building a strong technical foundation, contributing to impactful projects, and acquiring hands-on experience through internships and collaborations. Long-term, I aspire to become a skilled professional contributing meaningfully to the tech industry and society.
+       😃
     design:
       columns: '1'
   - block: collection
