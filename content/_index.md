@@ -34,10 +34,9 @@ sections:
     content:
       title: '📚 My Goal'
       subtitle: ''
-      text: |- 
-As a passionate and dedicated Computer Science student, my primary objective is to excel in my field by mastering core concepts and honing practical skills. I aim to explore and innovate in cybersecurity, leveraging my knowledge to create solutions that ensure data safety and privacy in an increasingly digital world. My immediate focus is on building a strong technical foundation, contributing to impactful projects, and acquiring hands-on experience through internships and collaborations. Long-term, I aspire to become a skilled professional contributing meaningfully to the tech industry and society.
-       
-    design:
+    text: |-
+      As a passionate and dedicated Computer Science student, my primary objective is to excel in my field by mastering core concepts and honing practical skills. I aim to explore and innovate in cybersecurity, leveraging my knowledge to create solutions that ensure data safety and privacy in an increasingly digital world. My immediate focus is on building a strong technical foundation, contributing to impactful projects, and acquiring hands-on experience through internships and collaborations. Long-term, I aspire to become a skilled professional contributing meaningfully to the tech industry and society.
+  design:
       columns: '1'
   - block: collection
     id: papers
