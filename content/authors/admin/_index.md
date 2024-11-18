@@ -37,10 +37,10 @@ profiles:
     url: https://github.com/Ananya394
   - icon: brands/linkedin
     url: https://www.linkedin.com/
-  #- icon: academicons/google-scholar
+  # - icon: academicons/google-scholar
   #  url: https://scholar.google.com/
   # icon: academicons/orcid
-    #url: https://orcid.org/
+  # url: https://orcid.org/
 
 interests:
   - Artificial Intelligence
@@ -54,55 +54,40 @@ education:
     date_start: 2022-01-01
     date_end: 2026-12-31
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com'
+      I am 3rd year 1st semister student.I will complete my Gratuation in 2025. Till now the journey is awsome.
+   # button:
+   #   text: 'Read Thesis'
+   #   url: 'https://example.com'
   - area: HSC
     institution: Gahtail Cantonment PUblic School and College
     date_start: 2018-01-01
     date_end: 2020-12-31
     summary: |  
-      GPA: 3.8/4.0
+      GPA: 5.0/5.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Mathematics
+      - Chemistry
+      - Physic
+      - Biology
+      - Bangla
+      - english
+      - Ict
   - area: SSC
     institution: Gatial Gono Pailot School and College.
     date_start: 2016-01-01
     date_end: 2020-12-31
     summary: |
-      GPA: 3.4/4.0
+      GPA: 5.0/5.0
       
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Mathematics
+      - Chemistry
+      - Physic
+      - Biology
+      - Bangla
+      - English
+      - Ict
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -113,9 +98,17 @@ skills:
       #  description: ''
         percent: 80
         icon: code-bracket
+       - name: html/css
+      #  description: ''
+        percent: 70
+        icon: code-bracket
       - name: Data Science
      #   description: ''
-        percent: 100
+        percent: 40
+        icon: Java
+    - name: Java
+      #  description: ''
+        percent: 80
         icon: Java
       - name: SQL
       #  description: ''
@@ -137,6 +130,14 @@ skills:
       - name: Music
        # description: ''
         percent: 80
+        icon: camera
+    - name: drawing
+       # description: ''
+        percent: 90
+        icon: draw
+      - name: exploring new things
+       # description: ''
+        percent: 100
         icon: camera
 
 languages:
