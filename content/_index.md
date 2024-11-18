@@ -54,5 +54,17 @@ sections:
     design:
       view: article-grid
       columns: 1
+
+    - block: collection
+    id: papers
+    content:
+      title: contact me
+      filters:
+        folders:
+          - publication
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
   
 ---
