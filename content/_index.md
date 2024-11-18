@@ -47,7 +47,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Certificate
       filters:
         folders:
           - event
