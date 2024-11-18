@@ -71,7 +71,16 @@ A proactive and detail-oriented Computer Science student with a growing expertis
 #### **Certifications**  
 
 - Front-End Development Certificate, FreeCodeCamp  
-- Responsive Web Design Certificate, FreeCodeCamp  
+- Responsive Web Design Certificate, FreeCodeCamp
+  
+  sections:
+- block: collection
+    content:
+      title: MY Certificates
+      text: Here is my certificate that i achive in this few time.
+      filters:
+        folders:
+          - certi
 
 ---
 
