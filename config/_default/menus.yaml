@@ -19,6 +19,6 @@ main:
   - name: Resume
     url: cv/
     weight: 11
-  - name: Teaching
-    url: teaching/
+  - name: contact
+    url: contact/
     weight: 40
