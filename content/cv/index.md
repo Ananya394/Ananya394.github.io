@@ -72,8 +72,6 @@ A proactive and detail-oriented Computer Science student with a growing expertis
 
 - Front-End Development Certificate, FreeCodeCamp  
 - Responsive Web Design Certificate, FreeCodeCamp
-  
-  ![FREECODECAMP](./Screenshot 2024-11-18 113440.PNG)
 
 ---
 
