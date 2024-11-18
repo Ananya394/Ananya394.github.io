@@ -36,12 +36,12 @@ A proactive and detail-oriented Computer Science student with a growing expertis
   Jahangirnagar University  
 
 - **Higher Secondary Certificate (HSC)**  
-  Ghatail Cantonment PUblic School and College(2020)
-  gpa 5.00
+  Ghatail Cantonment PUblic School and College(2020)-
+  gpa 5.00-Dhaka Board
 
 - **Secondary School Certificate (SSC)**  
-  Ghatail Gono Pailot High School(2018)
-  gpa 5.00
+  Ghatail Gono Pailot High School(2018)-
+  gpa 5.00-Dhaka Board
 
 ---
 
@@ -50,7 +50,7 @@ A proactive and detail-oriented Computer Science student with a growing expertis
 - **Web Technologies:** HTML, CSS, JavaScript, React  
 - **Frameworks:** Bootstrap, Tailwind CSS  
 - **Tools:** Git, Visual Studio Code, Figma, Webpack  
-- **Languages:** Bengali (native), English (proficient), Hindi (conversational)  
+- **Languages:** Bengali (native), English (proficient). 
 
 ---
 
@@ -58,13 +58,13 @@ A proactive and detail-oriented Computer Science student with a growing expertis
 
 **1. Personal Portfolio Website**  
 - A responsive website showcasing my professional skills and projects.  
-- **Technologies Used:** React, GitHub Pages  
+- **Technologies Used:** Hugo, GitHub Pages  
 
-**2. Biometric Attendance System**  
-- Developed a student attendance system using biometric technology with a user-friendly interface and real-time data integration.  
+**2.Acitivity Tracker**  
+- Implement a system which is related to student and teacher to keep updated of thier daily work and keep track of thier business.Moreover they can efficently use their time.  
 
-**3. Tic-Tac-Toe Game**  
-- Designed a browser-based game using JavaScript, focusing on algorithm logic and UX.  
+**3. Priyo Website**  
+- It is basically a clone of Priyo website.Priyo.com is a prominent Bangladeshi online portal that serves as a hub for news, information, and various digital services.
 
 ---
 
@@ -75,14 +75,13 @@ A proactive and detail-oriented Computer Science student with a growing expertis
 
 ---
 
-### **Achievements**  
+#### **Achievements**  
 
 - **Academic Excellence:** Achieved top GPA in SSC and HSC examinations.  
-- **Hackathon Participation:** Contributed to a university-level web design hackathon.  
 
 ---
 
-### **Interests**  
+#### **Interests**  
 
 - Exploring modern web frameworks (e.g., Vue.js, Svelte)  
 - Writing blogs on web accessibility and inclusive design  
@@ -90,13 +89,11 @@ A proactive and detail-oriented Computer Science student with a growing expertis
 
 ---
 
-### **References**  
+#### **References**  
 
 - **Md. Rafsan Jani**  
   Assistant Professor, Department of Computer Science, Jahangirnagar University  
 
-- **Ashik Uddin**  
-  Senior Software Engineer, ABC Ltd.  
-  Email: ashik.uddin@abcltd.com  
+
 
 ---
