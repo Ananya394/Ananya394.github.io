@@ -63,10 +63,11 @@ sections:
         You can reach me out here
     
           email: parvinsultana@gmail.com    
-          phone:017*****66    
+          phone:017****66    
           facebook: https://www.facebook.com/faria.sultana.18041
           LinkedIn: https://www.linkedin.com/
           GitHub: https://github.com/Ananya394
+    
     design:     
       columns: 1
   
