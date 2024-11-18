@@ -98,15 +98,15 @@ skills:
       #  description: ''
         percent: 80
         icon: code-bracket
-       - name: html/css
+      - name: html/css
       #  description: ''
         percent: 70
         icon: code-bracket
       - name: Data Science
-     #   description: ''
+      #   description: ''
         percent: 40
         icon: Java
-    - name: Java
+      - name: Java
       #  description: ''
         percent: 80
         icon: Java
@@ -131,7 +131,7 @@ skills:
        # description: ''
         percent: 80
         icon: camera
-    - name: drawing
+      - name: drawing
        # description: ''
         percent: 90
         icon: draw
