@@ -61,7 +61,7 @@ sections:
       title: contact me
       filters:
         folders:
-          - publication
+          - contact
         featured_only: true
     design:
       view: article-grid
