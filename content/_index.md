@@ -55,7 +55,7 @@ sections:
       view: article-grid
       columns: 1
 
-    - block: collection
+  - block: collection
     id: papers
     content:
       title: contact me
