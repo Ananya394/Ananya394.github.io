@@ -55,7 +55,7 @@ sections:
       view: article-grid
       columns: 1
 
-  - block: collection
+  - block: markdown
     id: papers
     content:
       title: contact me
@@ -66,7 +66,7 @@ sections:
           [facebook] https://www.facebook.com/faria.sultana.18041
           [LinkedIn] https://www.linkedin.com/
           [GitHub] https://github.com/Ananya394
-       
+    design:     
       columns: 1
   
 ---
