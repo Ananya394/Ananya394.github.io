@@ -1,7 +1,7 @@
 ---
-title: Recent & Upcoming Talks
+title: My Certificate
 cms_exclude: true
-#url: talk
+url: https://www.freecodecamp.org/certification/Faria_352/responsive-web-design
 
 # View
 view: card
