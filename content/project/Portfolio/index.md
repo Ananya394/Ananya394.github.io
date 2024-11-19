@@ -1,7 +1,7 @@
 ---
 title: MY Portfolio
 date: 2024-10-17
-external_link: https://ananya394.github.io/Portfolio/
+external_link: https://github.com/Ananya394/Portfolio
 tags:
   
 ---
